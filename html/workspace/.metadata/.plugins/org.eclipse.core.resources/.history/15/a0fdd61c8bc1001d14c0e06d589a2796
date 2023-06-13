@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+		
+		<div>
+		<!--<div style = "display : inline-block ; background :red; text-align : center; width : 25%" >a</div><div style = "display : inline-block ; background :green; text-align : center; width : 25%" >b</div><div style = "display : inline-block ; background :white; text-align : center; width : 25%" >c</div><div style = "display : inline-block ; background :black; text-align : center; width : 25%" >d</div>-->
+			<div style = "float : left ; width : 50% ; background :red ">a</div>
+			<div style = "float : left ; width : 50% ; background :green ">b</div>
+			<div style = "float : left ; width : 50% ; background : blue">c</div>
+			<div style = "float : left ; width : 50% ; background : yellow">d</div>
+		</div>
+		
+		<div>
+			<div style = "float : left;background : yellow; text-align : center ; width:50%">e</div>
+			<div style = "float : left;background : blue; text-align : center ; width:50%">f</div>
+		</div>
+		
+		<ul style="list-style : none">
+			<il style ="float : left;">a</il>
+			<il style ="float : left;">b</il>
+			<il style ="float : left;">c</il>
+		</ul>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+		<div>
+			<div style = "background :red; text-align : center; width : 50%">DIV1</div>
+			<div style = "background :green; text-align : center; width : 50%">DIV2</div>
+			
+		</div>
+		<div>
+		<div style = "display : inline-block ; background :red; text-align : center; width : 25%" ></div><div style = "display : inline-block ; background :green; text-align : center; width : 25%" ></div><div style = "display : inline-block ; background :white; text-align : center; width : 25%" ></div><div style = "display : inline-block ; background :black; text-align : center; width : 25%" ></div>
+		</div>
+</body>
+</html>

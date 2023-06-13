@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>무신사</title>
+<style>
+	*{
+		margin : 0;
+		padding : 0;
+		
+	}
+</style>
+</head>
+<body>
+		<div class = "container" style = "background : grey ; height :100vh">
+			<div class = "container login" style ="width : 30%;height : 100%; margin : 0 auto ; background :white">
+				<div>
+					<header style ="text-align : center;padding: 30px 0">
+						<h1>MUSINSA</h1>
+					</header>
+				</div>
+				<div style = "width : 80% ;margin : 0 auto">
+					<form  >
+						<div>
+							아이디
+						</div>
+						<div>
+							<input type ="text" placeholder = "영문,숫자5-11자">
+						</div>
+						<div>
+							비밀번호
+						</div>
+						<div>
+							<input type = "password" placeholder ="숫자,영문,특수문자 조합 최소 8자">
+							<input type = "password" placeholder ="비밀번호 재입력">
+						</div>
+						<div>
+							이메일
+						</div>	
+						<div>
+							<input type = "email">
+						</div>				
+						<div style = "font-size : 5px">
+							계정 분실 시 본인인증 정보로 활용됩니다.
+						</div>	
+						<div>
+							친구 초대 추천인 아이디
+						</div>
+						<div>
+							<input type = "text">
+						</div>
+						<div>
+							<input type = "checkbox">약관 전체 동의하기(선택 동의 포함)
+						</div>
+						<div>
+							<div>
+								<input type = "checkbox">[필수]만 14세 이상입니다.
+							</div>
+							<div>
+							<input type = "checkbox">[필수]무신사,무신사 스토어 이용 약관자세히
+							</div>
+							<div>
+							<input type = "checkbox">[필수]개인정보 수집 및 이용동의 자세히
+							</div>
+							<div>
+							<input type = "checkbox">[필수]광고성 정보 수신 동의
+							</div>
+							<div>
+							<input type = "checkbox">[필수]개인정보 수집 및 이용 동의 자세히
+							</div>
+						</div>
+						<div>
+							<button>본인인증하고 가입하기</button>
+						</div>
+						<div>
+							<li>본인인증이 어려운 경우 <a href ="#">비회원으로 구매</a>할 수 있습니다.</li>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+</body>
+</html>

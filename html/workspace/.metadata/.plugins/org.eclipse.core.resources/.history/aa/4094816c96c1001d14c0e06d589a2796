@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>무신사</title>
+</head>
+<body>
+		<div class = "container">
+			<div class = "container login" style ="width : 30%; margin : 0 auto">
+				<div>
+					<header style ="text-align : center">
+						<h1>MUSINSA</h1>
+					</header>
+				</div>
+				<div>
+					아이디
+				</div>
+			</div>
+		</div>
+</body>
+</html>

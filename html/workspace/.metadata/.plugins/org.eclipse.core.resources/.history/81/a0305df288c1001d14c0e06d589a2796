@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+		<div>
+			<div style = "background :red; text-align : center; width : 50%">DIV1</div>
+			<div style = "background :green; text-align : center; width : 50%">DIV2</div>
+			
+		</div>
+</body>
+</html>

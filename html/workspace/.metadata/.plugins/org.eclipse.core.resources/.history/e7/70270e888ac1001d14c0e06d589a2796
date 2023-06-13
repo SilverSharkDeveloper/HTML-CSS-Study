@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+		
+		<div>
+		<div style = "display : inline-block ; background :red; text-align : center; width : 25%" >a</div><div style = "display : inline-block ; background :green; text-align : center; width : 25%" >b</div><div style = "display : inline-block ; background :white; text-align : center; width : 25%" >c</div><div style = "display : inline-block ; background :black; text-align : center; width : 25%" >d</div>
+		</div>
+		
+		<div>
+			<div style = "background : yellow; text-align : center ; width:50%">e</div>
+			<div style = "background : blue; text-align : center ; width:50%">f</div>
+		</div>
+</body>
+</html>

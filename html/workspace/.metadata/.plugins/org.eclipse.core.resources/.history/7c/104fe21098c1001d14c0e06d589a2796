@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>무신사</title>
+</head>
+<body>
+		<div class = "container">
+			<div class = "container login" style ="width : 30%; margin : 0 auto">
+				<div>
+					<header style ="text-align : center">
+						<h1>MUSINSA</h1>
+					</header>
+				</div>
+				<div>
+					<form>
+						<div>
+							아이디
+						</div>
+						<div>
+							<input type ="text" placeholder = "영문,숫자5-11자">
+						</div>
+						<div>
+							비밀번호
+						</div>
+						<div
+							<input type = "password" placeholder ="숫자,영문,특수문자 조합 최소 8자">
+							<input type = "password" placeholder ="비밀번호 재입력">
+						</div>
+						<div>
+							이메일
+						</div>	
+						<div>
+							<input type = "email">
+						</div>				
+						<div>
+							계정 분실 시 본인인증 정보로 활용됩니다.
+						</div>	
+						<div>
+							친구 초대 추천인 아이디
+						</div>
+						<div>
+							<input type = "text">
+						</div>
+						<div>
+							<input type = "checkbox">
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+</body>
+</html>

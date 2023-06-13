@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>무신사</title>
+</head>
+<body>
+		<div class = "container login">
+			<div class = "headerCommonLayout">
+				<header>
+					<h1>무신사 스토어</h1>
+				</header>
+			</div>
+		</div>
+</body>
+</html>

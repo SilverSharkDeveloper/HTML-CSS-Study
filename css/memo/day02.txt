@@ -1,0 +1,4 @@
+가운데 정렬 방법
+ 1. 전체 div 가운데 정렬 -> margin 0 auto
+ 2. 안에 요소가 블록요소 -> 부모요소 display:flex -> justify-content : center
+ 3. 안에 요소가 인라인 -> 부모요소 text-align :center

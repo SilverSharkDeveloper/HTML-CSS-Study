@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>display</title>
+
+</head>
+<body>
+	<h1>블록 요소</h1>
+	<div style = "display : inline-block"> div 태그</div>입니다.
+</body>
+</html>
